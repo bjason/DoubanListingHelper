@@ -29,7 +29,7 @@ Music/file/book/game listings are the foundation Douban and are submited using a
 A "Collect" button appears on the upper-left corner of source pages. Clicking the botton collects listing data from the page, redirect to Douban, and auto-fill forms. It also downloads the cover image to the default download folder (Downloads, in my case). Users still have to upload the cover image manually (just select from the default download folder)
 
 Supported source sites:
-- Music: Bandcamp (album page), Discogs（master and release page), Apple Music (album page)
+- Music: Spotify (album page), Bandcamp (album page), Discogs（master and release page), Apple Music (album page)
 - Movie/TV: IMDB
 - Book: In development
 - Game: Steam
