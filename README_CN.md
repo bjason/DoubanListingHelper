@@ -23,7 +23,7 @@
 条目页面左上角会出现一个“Collect”按钮，点击后自动跳转至豆瓣添加条目界面自动填表，并把专辑封面下载到浏览器默认文件夹（我的是Downloads）。上传封面仍需手动，在默认下载文件夹选中即可。
 
 现支持如下条目页面：
-- 音乐：Bandcamp（专辑页面）, Discogs（master/release页面）, Apple Music（专辑页面）
+- 音乐：Spotify（专辑页面）, Bandcamp（专辑页面）, Discogs（master/release页面）, Apple Music（专辑页面）
 - 电影：IMDB（电影/电视页面）
 - 书籍：开发中
 - 游戏：Steam
